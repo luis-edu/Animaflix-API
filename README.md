@@ -5,3 +5,4 @@ Backend do projeto pessoal animaflix
 - Bearer Authentication Added!
 - 404 Page Update
 - User Register and Login Added!
+
